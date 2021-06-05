@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## Welcome to Sam Riley's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/18samr21/CIT-minor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CIT 281 Projects/Labs 
 
-### Markdown
+#[Lab 1](https://github.com/18samr21/lab-01)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+#[Lab 2](https://github.com/18samr21/lab-02)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+#[Lab 3](https://github.com/18samr21/lab-03)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+#[Lab 4](https://github.com/18samr21/lab-04)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#[Lab 5](https://github.com/18samr21/lab-05)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/18samr21/CIT-minor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#[Lab 6](https://github.com/18samr21/lab-06)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#[Lab 7](https://github.com/18samr21/lab-07)
+
+
+#[Lab 8](https://github.com/18samr21/lab-08)
+
+
+#[Lab 9](https://github.com/18samr21/lab-09)
+
+
+#[Project 1](https://github.com/18samr21/project-01)
+
+
+#[Project 2](https://github.com/18samr21/project-02)
+
+
+#[Project 3](https://github.com/18samr21/project-03)
+
+
+#[Project 4](https://github.com/18samr21/project-04)
+
+
+#[Project 5](https://github.com/18samr21/project-05)
+
+
+#[Project 6](https://github.com/18samr21/project-06)
+
+
+#[Project 7](https://github.com/18samr21/project-07)
