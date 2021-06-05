@@ -13,10 +13,10 @@ CIT 281 Projects/Labs
 #[Lab 4](https://github.com/18samr21/lab-04)
 
 
-#Lab [Lab 5](https://github.com/18samr21/lab-05)
+#[Lab 5](https://github.com/18samr21/lab-05)
 
 
-# [Lab 6](https://github.com/18samr21/lab-06)
+#[Lab 6](https://github.com/18samr21/lab-06)
 
 
 #[Lab 7](https://github.com/18samr21/lab-07)
@@ -40,10 +40,10 @@ CIT 281 Projects/Labs
 #[Project 4](https://github.com/18samr21/project-04)
 
 
-# [Project 5](https://github.com/18samr21/project-05)
+#[Project 5](https://github.com/18samr21/project-05)
 
 
-# [Project 6](https://github.com/18samr21/project-06)
+#[Project 6](https://github.com/18samr21/project-06)
 
 
-# [Project 7](https://github.com/18samr21/project-07)
+#[Project 7](https://github.com/18samr21/project-07)
