@@ -1,6 +1,5 @@
 ## Welcome to Sam Riley's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/18samr21/CIT-minor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 CIT 281 Projects/Labs 
 
